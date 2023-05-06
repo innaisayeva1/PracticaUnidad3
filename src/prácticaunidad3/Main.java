@@ -16,8 +16,8 @@ public class Main {
      */
     public static void main(String[] args) {
         CCuenta miCuenta;
-        double saldoActual;
-        
+        double saldoActual = 100;
+       
         miCuenta = new CCuenta("Manuel Mantecas","0000-1234-55-123456789",3000,0);
         try 
         {
